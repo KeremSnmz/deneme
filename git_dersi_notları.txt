@@ -1,0 +1,55 @@
+GİT BASHDE KULLANILAN GİTLE ALAKALI OLMAYAN  KOMUTLAR
+pwd -> hangi dizinde olduğumuzu gösterir
+ls -> bulunduğumuz klasör altındaki tüm dosyaları ekrana yazdırır
+ls -a -> gizli dosyaları da getirir
+clear -> terminalin en başına gidebilmek için kullanılır
+cd (change directory) -> her hangi bir klasöre gitmemizi sağlar
+mkdir -> buluduğunuz dizinde klasör oluşturur
+cd .. -> bi üst dizine çıkartır
+touch -> dosya oluşturmaya yarar
+Delete a File (rm)  -> rm addresses.txt (e.g. rm filename)
+Delete a Directory (rm -r) -> (e.g. rm -r directory-name)
+Copy a File (cp) -> cp grades.txt documents   e.g. cp filename directory-name)
+Copy a Directory and Its Contents (cp -r) ->  (e.g. cp -r directory-name-1 directory-name-2)
+
+
+
+
+GİT KOMUTLARI MİSCALLENOUS NOTES
+git commit -m  "" (burdaki m message dan geliyor)
+git commit -a -m ""  dosya üzerinde değişiklik yaptıktan sonra eklememizi sağlar
+git checkout <hash değeri> -> eski versiyonlara dönmek için kullanılır
+
+NOT  = komut satırında kopyalama işlemi ctrl + insert ile oluyor
+									   yapıştırma işlemi de shift + insert ile oluyor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
