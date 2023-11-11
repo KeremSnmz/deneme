@@ -26,6 +26,81 @@ NOT  = komut satırında kopyalama işlemi ctrl + insert ile oluyor
 
 
 
+git clone repository url -> yapınca bulumma dizine githubdaki repository indirir
+git remote -v ->  nereye fetch nereye push yapılacağını gösterir
+
+git reset komutu tüm geri dönmeleri iptal eder
+
+
+mv komutu ile dosya ismi değiştirebiliriz , mv  dosya ismi dosya ismi
+
+ls -al -> güzel şekilde sergileme işlemi yapıyor bence
+
+git status -s -> short anlamında kısaltarak bazı şeyleri gösterir
+
+git restore --stage dosya ismi -> staged areaya alınan dosyaları geri çeker, working areaya çalışma dizinine alır
+
+git restore dosya ismi -> working areada bu komutu kullanırsak yaptığımız değişikliği geri alır
+
+git show -> son yapılan commiti ve o committeki değşiklikleri gösterir gösterir 
+
+git log -p -2 -> son 2 logu son yapılan 2 değişikliği gösterir
+
+git log --since=30minutes -> 30 dakka önce yapılan comimitleri gösterir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
